@@ -1,0 +1,1 @@
+# [SlackArchive](http://slackarchive.io/) Crawler for [SlackDiagramServer](https://github.com/imxieyi/SlackDiagramServer)
